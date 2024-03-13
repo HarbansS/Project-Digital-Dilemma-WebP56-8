@@ -1,0 +1,36 @@
+h1, h2, h3, h4, h5, h6{
+  color: #205679;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
+  font-size: 30px;
+}
+p{
+  font-size: 20px;
+  color: #205679;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+  background-color: #79B3F5;
+  font-family: 'Courier New', Courier, monospace;
+}
+hr{
+  border: 1px solid #205679;
+}
+table, th, tr,td{
+  border: 3px solid #ABCFF9;
+  border-collapse: collapse;
+  background-color: #8ABCF6;
+  color:  #205679;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 400;
+}
+div{
+  background-color: #8ABCF6;
+  border: 5px dotted #9BC6F8;
+}
+img{
+  border: 3px solid #9BC6F8;
+  border-radius: 4px;
+  padding: 5px;
+}
